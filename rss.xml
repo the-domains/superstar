@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Superstar]]></title>
+        <description><![CDATA[Superstar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 03 Aug 2015 17:14:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LesConcierges Chairman Named Master Entrepreneur Of The Year | JVF Consulting]]></title>
+            <description><![CDATA[<article><h1>LesConcierges Chairman Named Master Entrepreneur Of The Year | JVF Consulting</h1><p>Linda Jenkinson, Chaiman of LesConcierges, Inc. named New Zealand Master Entrepreneur of the Year. San Francisco, CA June 1, 2012 - Ernst & Young Entrepreneur Of The Year® is the world's most prestigious business award for entrepreneurs. The award encourages entrepreneurial activity among those with potential, and recognizes the contribution of people who inspire others ...</p><img src="http://www.jvfconsulting.com/blog/wp-content/uploads/2015/02/E_Y_Entrepreneur.jpg"></article>]]></description>
+            <link>http://www.jvfconsulting.com/blog/lesconcierges-chairman-named-master-entrepreneur-of-the-year/</link>
+            <guid isPermaLink="false">3f9727cc-9d5c-4aea-9308-49d8b61cabec</guid>
+            <pubDate>Mon, 03 Aug 2015 17:14:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
