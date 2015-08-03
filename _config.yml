@@ -1,6 +1,7 @@
 name: Superstar
 favicon: null
 layout_spectrum: 0.22708
+typography_spectrum: 0.90625
 cta:
   domain: null
   bucket: null
