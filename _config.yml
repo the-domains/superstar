@@ -1,6 +1,6 @@
 name: Superstar
 favicon: null
-layout_spectrum: 0.22708
+layout_spectrum: 0.21666
 typography_spectrum: 0.90625
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#69b462'
   brandStrength: 0.6875
   lightness: 0.6875
-  saturation: 0.875
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose:
   - name: follow
