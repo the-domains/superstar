@@ -34,7 +34,7 @@ purpose:
     item: 9a0eed1e-2e15-4a96-8110-10393d5cd06f
 color:
   saturation: 0.375
-  brandStrength: 0.6914893
+  brandStrength: 0.9191489
   lightness: 0.3125
   brandColors:
     - '#FDFDFD'
@@ -42,9 +42,9 @@ color:
     - '#4BADA2'
     - '#7703FA'
     - '#E8C87F'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.6319149
 typography_spectrum: 0.08333
-layout_spectrum: 1
+layout_spectrum: 0.3765957
 analytics:
   twitter: null
   google: null
