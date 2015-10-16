@@ -1,3 +1,4 @@
+favicon: null
 name: Superstar
 opengraph:
   image: null
@@ -47,9 +48,8 @@ cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.687234
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 1
