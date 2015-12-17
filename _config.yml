@@ -1,7 +1,11 @@
-name: Superstar
-favicon: null
-layout_spectrum: 0.687234
-typography_spectrum: 0.9531915
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - filter:
       notType:
@@ -26,30 +30,26 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose:
+  - name: follow
+    url: null
+    item: 9a0eed1e-2e15-4a96-8110-10393d5cd06f
 color:
+  saturation: 0.887234
+  lightness: 0.819149
+  brandStrength: 0.4659574
   brandColors:
     - '#FDFDFD'
     - '#0D0715'
     - '#4BADA2'
     - '#7703FA'
     - '#E8C87F'
-  brandStrength: 0.8125
-  lightness: 0.3125
-  saturation: 0.375
-  rhythmicContrast: 0.1148936
-purpose:
-  - name: follow
-    url: null
-    item: 9a0eed1e-2e15-4a96-8110-10393d5cd06f
+  rhythmicContrast: 1
+typography_spectrum: 0.5106383
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5106383
+favicon: null
+name: Superstar
