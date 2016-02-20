@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -36,8 +37,8 @@ purpose:
     item: 9a0eed1e-2e15-4a96-8110-10393d5cd06f
 color:
   saturation: 0.887234
+  brandStrength: 0
   lightness: 0.819149
-  brandStrength: 0.4659574
   brandColors:
     - '#FDFDFD'
     - '#0D0715'
@@ -46,10 +47,9 @@ color:
     - '#E8C87F'
   rhythmicContrast: 1
 typography_spectrum: 0.5106383
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 0.5106383
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Superstar
